@@ -6,7 +6,7 @@ a security tool with the high privilege exploiting the windows kernels:
 * Object oriented programming
 * developed with windows DDK
 * there is a portable interface (MFC)
-* find the hidden processs
+* find the hidden processes
 * watch the SSDT(System Services Descriptor Table)
 * active defense
 * tested on WinXP SP3
