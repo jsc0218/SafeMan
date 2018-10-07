@@ -3,7 +3,7 @@ SafeMan
 
 a security tool with the high privilege exploiting the windows kernels:
 * C++ implementation
-* Object oriented programming
+* object oriented programming
 * developed with windows DDK
 * there is a portable interface (MFC)
 * find the hidden processes
